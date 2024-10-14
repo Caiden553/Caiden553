@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Caiden553
 - 👀 I’m interested in becoming a game develouper
-- 🌱 I’m currently learning Java script. I don't know much right about it right now.
+- 🌱 I’m currently learning Java script. I don't know much much about it right now. But i'm learning
 - 💞️ I’m looking to collaborate on nothing
 - 📫 You can reach me on my discord. My user is ThunderShockCaiden
 - 😄 Pronouns: He/Him
